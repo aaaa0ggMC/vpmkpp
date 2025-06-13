@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--allow-multiple-definition -Wl,--rpath,./ -Wl,--dependency-file=CMakeFiles/vpmkpp.dir/link.d CMakeFiles/vpmkpp.dir/src/main.cpp.o -o vpmkpp
