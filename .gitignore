@@ -1,4 +1,4 @@
-CMakeFiles/*
+./CMakeFiles/*
 
 # Prerequisites
 *.d
